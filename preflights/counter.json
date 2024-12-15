@@ -1,0 +1,18 @@
+{
+    "url": "https://haims2.doh.go.th/counter/v2",
+    "method": "GET",
+    "response": {
+        "code": 200,
+        "status": true,
+        "message": "",
+        "data": {
+            "count": "20,287",
+            "dead": "2,432",
+            "pain": "17,360",
+            "dateFrom": "2024-01-01",
+            "dateTo": "2024-12-31",
+            "name": "\u0e1b\u0e35 2567"
+        }
+    }
+
+}

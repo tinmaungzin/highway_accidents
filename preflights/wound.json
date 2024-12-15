@@ -1,0 +1,65 @@
+{
+  "url": "https://haims2.doh.go.th/get/ref/wound",
+  "method": "GET",
+  "response": {
+    "code": 200,
+    "status": true,
+    "message": "",
+    "data": [
+      {
+        "id": "1",
+        "code": "8.6.6.1",
+        "desc": "\u0e15\u0e32\u0e22 \u0e13 \u0e08\u0e38\u0e14\u0e40\u0e01\u0e34\u0e14\u0e40\u0e2b\u0e15\u0e38",
+        "create_date": "2010-06-20",
+        "modify_date": "2022-09-05",
+        "retried_date": null,
+        "weight": "1"
+      },
+      {
+        "id": "2",
+        "code": "8.6.6.2",
+        "desc": "\u0e15\u0e32\u0e22 \u0e13 \u0e42\u0e23\u0e07\u0e1e\u0e22\u0e32\u0e1a\u0e32\u0e25",
+        "create_date": "2010-06-20",
+        "modify_date": "2022-09-05",
+        "retried_date": null,
+        "weight": "2"
+      },
+      {
+        "id": "3",
+        "code": "8.6.6.3",
+        "desc": "\u0e1a\u0e32\u0e14\u0e40\u0e08\u0e47\u0e1a\u0e2a\u0e32\u0e2b\u0e31\u0e2a",
+        "create_date": "2010-06-20",
+        "modify_date": "2022-09-05",
+        "retried_date": null,
+        "weight": "3"
+      },
+      {
+        "id": "4",
+        "code": "8.6.6.4",
+        "desc": "\u0e1a\u0e32\u0e14\u0e40\u0e08\u0e47\u0e1a\u0e40\u0e25\u0e47\u0e01\u0e19\u0e49\u0e2d\u0e22",
+        "create_date": "2010-06-20",
+        "modify_date": "2022-09-05",
+        "retried_date": null,
+        "weight": "4"
+      },
+      {
+        "id": "5",
+        "code": "8.6.6.5",
+        "desc": "\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49\u0e23\u0e31\u0e1a\u0e1a\u0e32\u0e14\u0e40\u0e08\u0e47\u0e1a",
+        "create_date": "2022-09-05",
+        "modify_date": null,
+        "retried_date": null,
+        "weight": "5"
+      },
+      {
+        "id": "6",
+        "code": "8.6.6.6",
+        "desc": "\u0e44\u0e21\u0e48\u0e23\u0e30\u0e1a\u0e38",
+        "create_date": "2022-09-05",
+        "modify_date": null,
+        "retried_date": null,
+        "weight": "6"
+      }
+    ]
+  }
+}

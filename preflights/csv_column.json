@@ -1,0 +1,215 @@
+{
+  "url": "https://haims2.doh.go.th/get_analyze/api/csv_column",
+  "method": "GET",
+  "response": {
+    "code": 200,
+    "status": true,
+    "message": "",
+    "data": [
+      {
+        "key": "hid",
+        "name": "HID"
+      },
+      {
+        "key": "date",
+        "name": "\u0e27\u0e31\u0e19\u0e17\u0e35\u0e48\u0e40\u0e01\u0e34\u0e14\u0e40\u0e2b\u0e15\u0e38"
+      },
+      {
+        "key": "time",
+        "name": "\u0e40\u0e27\u0e25\u0e32\u0e17\u0e35\u0e48\u0e40\u0e01\u0e34\u0e14\u0e40\u0e2b\u0e15\u0e38"
+      },
+      {
+        "key": "is_new_construct_road",
+        "name": "\u0e2d\u0e38\u0e1a\u0e31\u0e15\u0e34\u0e40\u0e2b\u0e15\u0e38\u0e41\u0e19\u0e27\u0e17\u0e32\u0e07\u0e01\u0e48\u0e2d\u0e2a\u0e23\u0e49\u0e32\u0e07\u0e2a\u0e32\u0e22\u0e43\u0e2b\u0e21\u0e48"
+      },
+      {
+        "key": "bureau",
+        "name": "\u0e0a\u0e37\u0e48\u0e2d\u0e2a\u0e33\u0e19\u0e31\u0e01"
+      },
+      {
+        "key": "district",
+        "name": "\u0e0a\u0e37\u0e48\u0e2d\u0e41\u0e02\u0e27\u0e07"
+      },
+      {
+        "key": "depo",
+        "name": "\u0e0a\u0e37\u0e48\u0e2d\u0e2b\u0e21\u0e27\u0e14"
+      },
+      {
+        "key": "route",
+        "name": "\u0e2b\u0e21\u0e32\u0e22\u0e40\u0e25\u0e02\u0e17\u0e32\u0e07\u0e2b\u0e25\u0e27\u0e07"
+      },
+      {
+        "key": "controlsection",
+        "name": "\u0e15\u0e2d\u0e19\u0e04\u0e27\u0e1a\u0e04\u0e38\u0e21"
+      },
+      {
+        "key": "km",
+        "name": "\u0e01\u0e21."
+      },
+      {
+        "key": "latitude",
+        "name": "Latitude"
+      },
+      {
+        "key": "longitude",
+        "name": "Longitude"
+      },
+      {
+        "key": "road_char",
+        "name": "\u0e25\u0e31\u0e01\u0e29\u0e13\u0e30\u0e17\u0e32\u0e07\u0e2b\u0e25\u0e27\u0e07\u0e17\u0e35\u0e48\u0e40\u0e01\u0e34\u0e14\u0e40\u0e2b\u0e15\u0e38"
+      },
+      {
+        "key": "road_condition",
+        "name": "\u0e2a\u0e16\u0e32\u0e19\u0e30\u0e17\u0e32\u0e07\u0e2b\u0e25\u0e27\u0e07\u0e17\u0e35\u0e48\u0e40\u0e01\u0e34\u0e14\u0e40\u0e2b\u0e15\u0e38"
+      },
+      {
+        "key": "road_lane",
+        "name": "\u0e08\u0e33\u0e19\u0e27\u0e19\u0e0a\u0e48\u0e2d\u0e07\u0e08\u0e23\u0e32\u0e08\u0e23"
+      },
+      {
+        "key": "road_direction",
+        "name": "\u0e17\u0e34\u0e28\u0e17\u0e32\u0e07"
+      },
+      {
+        "key": "road_isle",
+        "name": "\u0e1b\u0e23\u0e30\u0e40\u0e20\u0e17\u0e40\u0e01\u0e32\u0e30\u0e01\u0e25\u0e32\u0e07"
+      },
+      {
+        "key": "road_traffic",
+        "name": "\u0e01\u0e32\u0e23\u0e08\u0e23\u0e32\u0e08\u0e23"
+      },
+      {
+        "key": "road_surface",
+        "name": "\u0e0a\u0e19\u0e34\u0e14\u0e1c\u0e34\u0e27\u0e08\u0e23\u0e32\u0e08\u0e23"
+      },
+      {
+        "key": "char_horizontal",
+        "name": "\u0e41\u0e19\u0e27\u0e23\u0e32\u0e1a"
+      },
+      {
+        "key": "char_vertical",
+        "name": "\u0e41\u0e19\u0e27\u0e14\u0e34\u0e48\u0e07"
+      },
+      {
+        "key": "char_intersection",
+        "name": "\u0e17\u0e32\u0e07\u0e41\u0e22\u0e01"
+      },
+      {
+        "key": "char_openacess",
+        "name": "\u0e08\u0e38\u0e14\u0e40\u0e1b\u0e34\u0e14\u0e40\u0e01\u0e32\u0e30\u0e01\u0e25\u0e32\u0e07\u0e16\u0e19\u0e19"
+      },
+      {
+        "key": "char_connect",
+        "name": "\u0e17\u0e32\u0e07\u0e40\u0e0a\u0e37\u0e48\u0e2d\u0e21"
+      },
+      {
+        "key": "char_other",
+        "name": "\u0e1a\u0e23\u0e34\u0e40\u0e27\u0e13\u0e40\u0e09\u0e1e\u0e32\u0e30\u0e2d\u0e37\u0e48\u0e19\u0e46"
+      },
+      {
+        "key": "main_cause",
+        "name": "\u0e21\u0e39\u0e25\u0e40\u0e2b\u0e15\u0e38\u0e2b\u0e25\u0e31\u0e01"
+      },
+      {
+        "key": "traffic_condition",
+        "name": "\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e23\u0e16\u0e2a\u0e30\u0e2a\u0e21\u0e02\u0e13\u0e30\u0e40\u0e01\u0e34\u0e14\u0e40\u0e2b\u0e15\u0e38"
+      },
+      {
+        "key": "traffic_condition_begin",
+        "name": "\u0e40\u0e27\u0e25\u0e32\u0e40\u0e23\u0e34\u0e48\u0e21\u0e15\u0e49\u0e19"
+      },
+      {
+        "key": "traffic_condition_end",
+        "name": "\u0e40\u0e27\u0e25\u0e32\u0e2a\u0e34\u0e49\u0e19\u0e2a\u0e38\u0e14"
+      },
+      {
+        "key": "env_surface",
+        "name": "\u0e1c\u0e34\u0e27\u0e17\u0e32\u0e07"
+      },
+      {
+        "key": "env_status",
+        "name": "\u0e2a\u0e20\u0e32\u0e1e\u0e1c\u0e34\u0e27\u0e17\u0e32\u0e07"
+      },
+      {
+        "key": "env_weather",
+        "name": "\u0e2a\u0e20\u0e32\u0e1e\u0e20\u0e39\u0e21\u0e34\u0e2d\u0e32\u0e01\u0e32\u0e28"
+      },
+      {
+        "key": "env_light",
+        "name": "\u0e41\u0e2a\u0e07\u0e2a\u0e27\u0e48\u0e32\u0e07"
+      },
+      {
+        "key": "injury_death",
+        "name": "\u0e1c\u0e39\u0e49\u0e1a\u0e32\u0e14\u0e40\u0e08\u0e47\u0e1a\u0e41\u0e25\u0e30\u0e40\u0e2a\u0e35\u0e22\u0e0a\u0e35\u0e27\u0e34\u0e15"
+      },
+      {
+        "key": "fatal_waste_material",
+        "name": "\u0e27\u0e31\u0e2a\u0e14\u0e38\u0e2a\u0e34\u0e49\u0e19\u0e40\u0e1b\u0e25\u0e37\u0e2d\u0e07"
+      },
+      {
+        "key": "fatal_damage_public",
+        "name": "\u0e04\u0e48\u0e32\u0e40\u0e2a\u0e35\u0e22\u0e2b\u0e32\u0e22\u0e23\u0e32\u0e0a\u0e01\u0e32\u0e23 (\u0e1a\u0e32\u0e17)"
+      },
+      {
+        "key": "fatal_damage_private",
+        "name": "\u0e04\u0e48\u0e32\u0e40\u0e2a\u0e35\u0e22\u0e2b\u0e32\u0e22\u0e40\u0e2d\u0e01\u0e0a\u0e19 (\u0e1a\u0e32\u0e17)"
+      },
+      {
+        "key": "vehicle",
+        "name": "\u0e23\u0e16\u0e17\u0e35\u0e48\u0e1b\u0e23\u0e30\u0e2a\u0e1a\u0e2d\u0e38\u0e1a\u0e31\u0e15\u0e34\u0e40\u0e2b\u0e15\u0e38"
+      },
+      {
+        "key": "crash",
+        "name": "\u0e23\u0e2b\u0e31\u0e2a\u0e01\u0e32\u0e23\u0e0a\u0e19"
+      },
+      {
+        "key": "construct_type",
+        "name": "\u0e1b\u0e23\u0e30\u0e40\u0e20\u0e17\u0e42\u0e04\u0e23\u0e07\u0e01\u0e32\u0e23"
+      },
+      {
+        "key": "construct_name",
+        "name": "\u0e0a\u0e37\u0e48\u0e2d\u0e42\u0e04\u0e23\u0e07\u0e01\u0e32\u0e23"
+      },
+      {
+        "key": "construct_contract_no",
+        "name": "\u0e40\u0e25\u0e02\u0e17\u0e35\u0e48\u0e2a\u0e31\u0e0d\u0e0d\u0e32"
+      },
+      {
+        "key": "construct_department",
+        "name": "\u0e2b\u0e19\u0e48\u0e27\u0e22\u0e07\u0e32\u0e19\u0e17\u0e35\u0e48\u0e23\u0e31\u0e1a\u0e1c\u0e34\u0e14\u0e0a\u0e2d\u0e1a"
+      },
+      {
+        "key": "construct_km_start",
+        "name": "\u0e0a\u0e48\u0e27\u0e07\u0e14\u0e33\u0e40\u0e19\u0e34\u0e19\u0e01\u0e32\u0e23 \u0e01\u0e21.\u0e40\u0e23\u0e34\u0e48\u0e21\u0e15\u0e49\u0e19"
+      },
+      {
+        "key": "construct_km_end",
+        "name": "\u0e0a\u0e48\u0e27\u0e07\u0e14\u0e33\u0e40\u0e19\u0e34\u0e19\u0e01\u0e32\u0e23 \u0e01\u0e21.\u0e2a\u0e34\u0e49\u0e19\u0e2a\u0e38\u0e14"
+      },
+      {
+        "key": "construct_accident_location",
+        "name": "\u0e15\u0e33\u0e41\u0e2b\u0e19\u0e48\u0e07\u0e01\u0e32\u0e23\u0e40\u0e01\u0e34\u0e14\u0e2d\u0e38\u0e1a\u0e31\u0e15\u0e34\u0e40\u0e2b\u0e15\u0e38"
+      },
+      {
+        "key": "construct_sign_cond",
+        "name": "\u0e2a\u0e20\u0e32\u0e1e\u0e1b\u0e49\u0e32\u0e22\u0e40\u0e15\u0e37\u0e2d\u0e19\u0e01\u0e32\u0e23\u0e08\u0e23\u0e32\u0e08\u0e23"
+      },
+      {
+        "key": "construct_affect",
+        "name": "\u0e1b\u0e23\u0e34\u0e21\u0e32\u0e13\u0e23\u0e16\u0e2a\u0e30\u0e2a\u0e21\u0e02\u0e13\u0e30\u0e40\u0e01\u0e34\u0e14\u0e40\u0e2b\u0e15\u0e38"
+      },
+      {
+        "key": "construct_solution",
+        "name": "\u0e2b\u0e32\u0e01\u0e1c\u0e48\u0e32\u0e19\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49\u0e41\u0e25\u0e30\u0e15\u0e49\u0e2d\u0e07\u0e21\u0e35\u0e01\u0e32\u0e23\u0e1b\u0e34\u0e14\u0e0a\u0e48\u0e2d\u0e07\u0e17\u0e32\u0e07\u0e08\u0e23\u0e32\u0e08\u0e23 \u0e41\u0e01\u0e49\u0e44\u0e02\u0e2a\u0e16\u0e32\u0e19\u0e01\u0e32\u0e23\u0e13\u0e4c\u0e42\u0e14\u0e22"
+      },
+      {
+        "key": "construct_has_staff",
+        "name": "\u0e40\u0e08\u0e49\u0e32\u0e2b\u0e19\u0e49\u0e32\u0e17\u0e35\u0e48\u0e43\u0e19\u0e1e\u0e37\u0e49\u0e19\u0e17\u0e35\u0e48\u0e1b\u0e0f\u0e34\u0e1a\u0e31\u0e15\u0e34\u0e07\u0e32\u0e19"
+      },
+      {
+        "key": "construct_help_department",
+        "name": "\u0e14\u0e33\u0e40\u0e19\u0e34\u0e19\u0e01\u0e32\u0e23\u0e0a\u0e48\u0e27\u0e22\u0e40\u0e2b\u0e25\u0e37\u0e2d\u0e42\u0e14\u0e22"
+      }
+    ]
+  }
+}

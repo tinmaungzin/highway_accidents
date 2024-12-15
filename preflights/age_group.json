@@ -1,0 +1,51 @@
+{
+  "url": "https://haims2.doh.go.th/get/ref/acc_cause_group",
+  "method": "GET",
+  "response": {
+    "code": 200,
+    "status": true,
+    "message": "",
+    "data": [
+      {
+        "id": "100",
+        "code": "9.1",
+        "name": "\u0e21\u0e39\u0e25\u0e40\u0e2b\u0e15\u0e38\u0e14\u0e49\u0e32\u0e19\u0e2a\u0e20\u0e32\u0e1e\u0e41\u0e27\u0e14\u0e25\u0e49\u0e2d\u0e21",
+        "create_date": "2022-08-29 10:35:34.972869",
+        "modify_date": null,
+        "retired_date": null
+      },
+      {
+        "id": "200",
+        "code": "9.2",
+        "name": "\u0e21\u0e39\u0e25\u0e40\u0e2b\u0e15\u0e38\u0e14\u0e49\u0e32\u0e19\u0e22\u0e32\u0e19\u0e1e\u0e32\u0e2b\u0e19\u0e30",
+        "create_date": "2022-08-29 10:35:34.972869",
+        "modify_date": null,
+        "retired_date": null
+      },
+      {
+        "id": "300",
+        "code": "9.3",
+        "name": "\u0e21\u0e39\u0e25\u0e40\u0e2b\u0e15\u0e38\u0e14\u0e49\u0e32\u0e19\u0e1c\u0e39\u0e49\u0e02\u0e31\u0e1a\u0e02\u0e35\u0e48",
+        "create_date": "2022-08-29 10:35:34.972869",
+        "modify_date": null,
+        "retired_date": null
+      },
+      {
+        "id": "400",
+        "code": "9.4",
+        "name": "\u0e21\u0e39\u0e25\u0e40\u0e2b\u0e15\u0e38\u0e14\u0e49\u0e32\u0e19\u0e04\u0e19\u0e40\u0e14\u0e34\u0e19\u0e40\u0e17\u0e49\u0e32",
+        "create_date": "2022-08-29 10:35:34.972869",
+        "modify_date": null,
+        "retired_date": null
+      },
+      {
+        "id": "1000",
+        "code": "9.5",
+        "name": "\u0e2d\u0e37\u0e48\u0e19\u0e46",
+        "create_date": "2022-10-10 09:40:25.767099",
+        "modify_date": null,
+        "retired_date": "2022-10-10 09:40:25.767099"
+      }
+    ]
+  }
+}

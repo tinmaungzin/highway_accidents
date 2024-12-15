@@ -1,0 +1,44 @@
+<tr class="odd" validrow="true" style="">
+            <td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">6.</font></font></td>
+            <td class="id"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1063344</font></font></td>
+            <td style="text-align: center;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">441a4</font></font></td>
+            <td class="number"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Wed. 27 Dec. 66</font></font></td>
+            <td class="number"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">11:30</font></font></td>
+            <td class="number"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">0340</font></font></td>
+            <td class="number"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">0301</font></font></td>
+            <td class="number"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">0065+420</font></font></td>
+            <td class="number"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2</font></font></td>
+            <td class="number"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">0</font></font></td>
+            <td class="number"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1</font></font></td>
+            <td class="complete"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">finish</font></font></td>
+            <td class="id"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Highway</font></font></td>
+            <td class="button"><a class="btn btn-primary btn-sm datalist__btn" role="button" href="/view/1063344" title="watch" target="_blank"><i class="fa-solid fa-eye"></i></a></td><td class="button"></td>
+            <td class="button"></td>
+            <td class="button"></td></tr>
+
+
+from this table html
+<tr class="header">
+            <td class="lock" _sorttype="None"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">No</font></font></td>
+            <td _sorttype="formatted-number" style="cursor: pointer;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ID</font></font><img src="/sites/all/libraries/tablefilter/style/themes/blank.png" class="sort-arrow"></td>
+            <td _sorttype="string" style="cursor: pointer;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Editor</font></font><img src="/sites/all/libraries/tablefilter/style/themes/blank.png" class="sort-arrow"></td>
+            <td _sorttype="thdate" style="cursor: pointer;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Date of incident</font></font><img src="/sites/all/libraries/tablefilter/style/themes/blank.png" class="sort-arrow"></td>
+            <td _sorttype="string" style="cursor: pointer;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">time</font></font><img src="/sites/all/libraries/tablefilter/style/themes/blank.png" class="sort-arrow"></td>
+            <td _sorttype="formatted-number" style="cursor: pointer;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">highway</font></font><img src="/sites/all/libraries/tablefilter/style/themes/blank.png" class="sort-arrow"></td>
+            <td _sorttype="formatted-number" style="cursor: pointer;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">section</font></font><img src="/sites/all/libraries/tablefilter/style/themes/blank.png" class="sort-arrow"></td>
+            <td _sorttype="string" style="cursor: pointer;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">km</font></font><img src="/sites/all/libraries/tablefilter/style/themes/blank.png" class="sort-arrow"></td>
+            <td _sorttype="formatted-number" style="cursor: pointer;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">car</font></font><img src="/sites/all/libraries/tablefilter/style/themes/blank.png" class="sort-arrow"></td>
+            <td _sorttype="formatted-number" style="cursor: pointer;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Died</font></font><img src="/sites/all/libraries/tablefilter/style/themes/blank.png" class="sort-arrow"></td>
+            <td _sorttype="formatted-number" style="cursor: pointer;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Injured</font></font><img src="/sites/all/libraries/tablefilter/style/themes/blank.png" class="sort-arrow"></td>
+            <td _sorttype="string" style="cursor: pointer;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">status</font></font><img src="/sites/all/libraries/tablefilter/style/themes/blank.png" class="sort-arrow"></td>
+            <td _sorttype="string" style="cursor: pointer;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Source</font></font><img src="/sites/all/libraries/tablefilter/style/themes/blank.png" class="sort-arrow"></td>
+            <td class="buttonrow" _sorttype="None"></td>
+            <td class="buttonrow" _sorttype="None"></td>
+                <td class="buttonrow" _sorttype="None"></td>
+                <td class="buttonrow" _sorttype="None"></td>
+        </tr>
+this is table header
+html file will be local file
+there will be multiple html files
+if multiple files, merge all the data
+output the data as csv file

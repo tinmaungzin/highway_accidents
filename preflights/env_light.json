@@ -1,0 +1,26 @@
+{
+  "url": "https://haims2.doh.go.th/get/ref/env_light",
+  "method": "GET",
+  "response": {
+    "code": 200,
+    "status": true,
+    "message": "",
+    "data": [
+      {
+        "id": "1",
+        "desc": "\u0e01\u0e25\u0e32\u0e07\u0e27\u0e31\u0e19",
+        "weight": "1"
+      },
+      {
+        "id": "2",
+        "desc": "\u0e21\u0e37\u0e14\u0e44\u0e21\u0e48\u0e21\u0e35\u0e44\u0e1f\u0e1f\u0e49\u0e32\u0e41\u0e2a\u0e07\u0e2a\u0e27\u0e48\u0e32\u0e07",
+        "weight": "2"
+      },
+      {
+        "id": "3",
+        "desc": "\u0e21\u0e37\u0e14\u0e21\u0e35\u0e44\u0e1f\u0e1f\u0e49\u0e32\u0e41\u0e2a\u0e07\u0e2a\u0e27\u0e48\u0e32\u0e07",
+        "weight": "3"
+      }
+    ]
+  }
+}

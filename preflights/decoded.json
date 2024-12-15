@@ -1,0 +1,74 @@
+[
+  {
+    "hid": "946551",
+    "longitude": 100.093345628157,
+    "latitude": 14.5036601225245,
+    "severity": 1,
+    "title": "13 ธ.ค. 62 02:00 กม.71+590",
+    "detail": "ทางหลวง 340 ตอน 301<br />กม. 71+590",
+    "detail_link": "https://haims2.doh.go.th/view/946551"
+  },
+  {
+    "hid": "1054356",
+    "longitude": 100.13524720523,
+    "latitude": 14.55087629278,
+    "severity": 0,
+    "title": "2 พ.ย. 66 07:40 กม.77+360",
+    "detail": "ทางหลวง 340 ตอน 301<br />กม. 77+360",
+    "detail_link": "https://haims2.doh.go.th/view/1054356"
+  },
+  {
+    "hid": "1056779",
+    "longitude": 100.15191713389,
+    "latitude": 14.414292071891,
+    "severity": 1,
+    "title": "20 พ.ย. 66 20:20 กม.61+700",
+    "detail": "ทางหลวง 340 ตอน 301<br />กม. 61+700",
+    "detail_link": "https://haims2.doh.go.th/view/1056779"
+  },
+  {
+    "hid": "1061739",
+    "longitude": 100.1308389008,
+    "latitude": 14.522993244122,
+    "severity": 1,
+    "title": "29 ธ.ค. 66 23:20 กม.74+800",
+    "detail": "ทางหลวง 340 ตอน 301<br />กม. 74+800",
+    "detail_link": "https://haims2.doh.go.th/view/1061739"
+  },
+  {
+    "hid": "1061981",
+    "longitude": 100.18475349687,
+    "latitude": 14.359673772015,
+    "severity": 0,
+    "title": "30 ธ.ค. 66 13:40 กม.54+630",
+    "detail": "ทางหลวง 340 ตอน 301<br />กม. 54+630",
+    "detail_link": "https://haims2.doh.go.th/view/1061981"
+  },
+  {
+    "hid": "1063260",
+    "longitude": 100.13120099902,
+    "latitude": 14.476144748798,
+    "severity": 1,
+    "title": "24 ธ.ค. 66 06:20 กม.69+060",
+    "detail": "ทางหลวง 340 ตอน 301<br />กม. 69+060",
+    "detail_link": "https://haims2.doh.go.th/view/1063260"
+  },
+  {
+    "hid": "1063337",
+    "longitude": 100.17935872078,
+    "latitude": 14.37543808118,
+    "severity": 0,
+    "title": "27 ธ.ค. 66 03:20 กม.56+500",
+    "detail": "ทางหลวง 340 ตอน 301<br />กม. 56+500",
+    "detail_link": "https://haims2.doh.go.th/view/1063337"
+  },
+  {
+    "hid": "1063344",
+    "longitude": 100.13545230031,
+    "latitude": 14.440163551023,
+    "severity": 1,
+    "title": "27 ธ.ค. 66 11:30 กม.65+420",
+    "detail": "ทางหลวง 340 ตอน 301<br />กม. 65+420",
+    "detail_link": "https://haims2.doh.go.th/view/1063344"
+  }
+]
