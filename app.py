@@ -59,6 +59,6 @@ def process_html_files(input_dir, output_csv):
 
 # Usage
 input_directory = "tables"  # Replace with the directory containing HTML files
-output_file = "output.csv"  # Replace with the desired output CSV file name
+output_file = "accidents.csv"  # Replace with the desired output CSV file name
 
 process_html_files(input_directory, output_file)

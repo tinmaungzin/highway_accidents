@@ -1,0 +1,18 @@
+# Exclude the env folder
+env/
+
+# General Python-related ignores
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.env
+
+# IDE-specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# macOS-specific files
+.DS_Store
